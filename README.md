@@ -63,3 +63,14 @@ The app defines following APIs.
     Delete a device - DELETE /api/device/{deviceId}
 
     Search device by brand - GET /api/device?brand={brandName}
+
+
+## Additional Endpoints
+
+   It is possible to monitor the application from the endpoints available through SpringBoot Actuator. With this API it will be possible to monitor the application from different perspectives.
+   
+   The list of endpoints can be consulted at:
+   
+   /actuator
+
+
