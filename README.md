@@ -72,5 +72,10 @@ The app defines following APIs.
    The list of endpoints can be consulted at:
    
    /actuator
+   
+   The API is exposed by swagger and can be consulted at:
+   
+   /swagger-ui.html
+   
 
 
