@@ -7,7 +7,7 @@
 
 ```bash
 
-https://github.com/viniciusdasilvareis/truphone.git
+https://github.com/viniciusdasilvareis/truphone-exercise.git
 
 ```
 
