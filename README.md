@@ -62,4 +62,4 @@ The app defines following APIs.
     
     Delete a device - DELETE /api/device/{deviceId}
 
-    Search device by brand - GET /api/device?brand={brandName}m
+    Search device by brand - GET /api/device?brand={brandName}
